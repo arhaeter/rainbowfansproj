@@ -1,0 +1,21 @@
+/* Header, footer */
+
+header, footer {
+  background-color: #000000;
+}
+p1 {
+  font-size: 17px;
+  font-family: fantasy;
+}
+
+h2 {
+  font-size: 10px;
+}
+p2 {
+  font-size: 17px;
+  font-family: Comic Sans MS;
+}
+p3 {
+  font-size: 17px;
+  font-family: Lucida Console;
+}
